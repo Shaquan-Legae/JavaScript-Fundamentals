@@ -15,6 +15,7 @@ In this project, I demonstrate my understanding of core JavaScript concepts by w
 ## 📂 Project Structure
 ```
 /javascript-assignment
+│── index.html
 │── index.js
 │── README.md
 ```
